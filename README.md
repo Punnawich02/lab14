@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME: ปุณณวิชญ์ เดชอินทร์
+# STUDENT ID: 650610787
